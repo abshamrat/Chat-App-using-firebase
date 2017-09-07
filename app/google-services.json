@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "801919404671",
+    "firebase_url": "https://friendlychat-23698.firebaseio.com",
+    "project_id": "friendlychat-23698",
+    "storage_bucket": "friendlychat-23698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801919404671:android:98b79b82040b6699",
+        "android_client_info": {
+          "package_name": "com.chatbuzz.shamratakbar.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801919404671-66kn5kspadoba0kkk68m3mfkta3jtme1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2car13myc1AEyXdCkAozn1_RANEY4Zm4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
